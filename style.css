@@ -1,0 +1,21 @@
+body{
+background-color: dimgray;
+margin:0;
+font-family: 'Times New Roman', Times, serif;
+}
+header{
+background-color: black;
+align-items: center;
+justify-content: space-between;
+padding: 20px;
+display: flex; 
+}
+h1{
+
+}
+input{
+
+}
+button{
+
+}
