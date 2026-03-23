@@ -15,11 +15,11 @@ color: aliceblue;
 font-size: 30px ;
 }
 input{
-width: 100px;
-height: 10px;
+width: 400px;
+height: 30px;
 }
 button{
 background-color: rgb(7, 183, 27);
-width: 50px;
-border-radius: 50px;
+width: 150px;
+border-radius: 30px;
 }
