@@ -32,6 +32,9 @@ section{
 display: flex;
 align-items: center;
 justify-content: space-around;
+color: aliceblue;
+margin: 20px;
+padding: 30px;
 }
 p{
 width: 400px;    
@@ -41,7 +44,7 @@ width: 400px;
 }
  
 section button{
-background-color: forestgreen;
+background-color: rgb(24, 185, 72);
 height: 100px;
 width: 250px;
 font-size: 30px;
